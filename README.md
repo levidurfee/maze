@@ -6,11 +6,11 @@ This project still needs work. View the [demo](https://levi.lol/maze/).
 
 ## todo
 
-- [ ] Remove unused properties (it got messy)
-- [ ] Add moveUp method (none of my test mazes needed to move up)
-- [ ] Keep track of successes and fails
-- [ ] PHPUnit testing / TravisCI
-- [ ] Remove my tracking code ;)
+- [ ] [#1](https://github.com/levidurfee/maze/issues/1) Remove unused properties (it got messy)
+- [ ] [#2](https://github.com/levidurfee/maze/issues/2) Add moveUp method (none of my test mazes needed to move up)
+- [ ] [#3](https://github.com/levidurfee/maze/issues/3) Keep track of successes and fails
+- [ ] [#4](https://github.com/levidurfee/maze/issues/4) PHPUnit testing / TravisCI
+- [ ] [#5](https://github.com/levidurfee/maze/issues/5) Remove my tracking code ;)
 
 ## notes
 
